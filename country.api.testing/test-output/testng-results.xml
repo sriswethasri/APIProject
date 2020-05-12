@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5324" started-at="2020-05-12T23:04:42Z" finished-at="2020-05-12T23:04:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5324" started-at="2020-05-12T23:04:42Z" finished-at="2020-05-12T23:04:47Z">
+      <class name="com.country.api.test.CountryAPIGetTest_NG">
+        <test-method status="PASS" signature="testWithCorrectInput()[pri:0, instance:com.country.api.test.CountryAPIGetTest_NG@174d20a]" name="testWithCorrectInput" duration-ms="5305" started-at="2020-05-12T16:04:42Z" finished-at="2020-05-12T16:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithCorrectInput -->
+      </class> <!-- com.country.api.test.CountryAPIGetTest_NG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
